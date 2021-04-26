@@ -54,7 +54,7 @@ A Java project build and manage with Maven tool.
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.0.1</version>
+			<version>2.7</version>
 		</dependency>		
 		<dependency>
 			<groupId>commons-lang</groupId>
